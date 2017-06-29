@@ -1,0 +1,1 @@
+1 3416058 DAT533010 /pauger/Simulations/libraries/augermgr.ccin2p3/GenIronEpos_SRB/en18.500/th0.65/053301/20110124 CORSIKA EPOS iron 5626 19.00 21.205168

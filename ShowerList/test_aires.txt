@@ -1,0 +1,18 @@
+1 493474 SH000380 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/000000/300/80 AIRES SIBYLL Proton 31 19.00 45.000000
+2 511584 SH001580 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/001000/500/80 AIRES SIBYLL Proton 31 19.00 45.000000
+3 528287 SH002780 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/002000/700/80 AIRES SIBYLL Proton 31 19.00 45.000000
+4 547526 SH003980 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/003000/900/80 AIRES SIBYLL Proton 31 19.00 45.000000
+5 563962 SH005180 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/005000/100/80 AIRES SIBYLL Proton 31 19.00 45.000000
+6 583628 SH006380 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/006000/300/80 AIRES SIBYLL Proton 31 19.00 45.000000
+7 599362 SH007580 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/007000/500/80 AIRES SIBYLL Proton 31 19.00 45.000000
+8 618421 SH008780 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/008000/700/80 AIRES SIBYLL Proton 31 19.00 45.000000
+9 785906 SH009980 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/009000/900/80 AIRES SIBYLL Proton 31 19.00 45.000000
+10 652406 SH011180 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/011000/100/80 AIRES SIBYLL Proton 31 19.00 45.000000
+11 668842 SH012380 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/012000/300/80 AIRES SIBYLL Proton 31 19.00 45.000000
+12 686314 SH013580 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/013000/500/80 AIRES SIBYLL Proton 31 19.00 45.000000
+13 702968 SH014780 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/014000/700/80 AIRES SIBYLL Proton 31 19.00 45.000000
+14 716427 SH015980 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/015000/900/80 AIRES SIBYLL Proton 31 19.00 45.000000
+15 729621 SH017180 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/017000/100/80 AIRES SIBYLL Proton 31 19.00 45.000000
+16 742436 SH018380 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/018000/300/80 AIRES SIBYLL Proton 31 19.00 45.000000
+17 806292 SH019580 srb:/Simulations/libraries/sciutto.ccin2p3/AMgeLyonExtDvezpShb/019000/500/80 AIRES SIBYLL Proton 31 19.00 45.000000
+#end

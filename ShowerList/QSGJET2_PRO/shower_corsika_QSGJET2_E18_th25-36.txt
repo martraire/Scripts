@@ -1,0 +1,642 @@
+1 4879096 DAT100031 srb:/Simulations/libraries/albert.ccin2p3/TestComProtonQGSjetII/010003/20110713 CORSIKA QGSJET-II proton 14  32.670530
+2 4879184 DAT100045 srb:/Simulations/libraries/albert.ccin2p3/TestComProtonQGSjetII/010004/20110713 CORSIKA QGSJET-II proton 14  30.765190
+3 3559230 DAT433022 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043302/20101224 CORSIKA QGSJET-II proton 14  35.168149
+4 3559528 DAT433045 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043304/20110105 CORSIKA QGSJET-II proton 14  25.788830
+5 3563436 DAT433073 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043307/20101231 CORSIKA QGSJET-II proton 14  28.160876
+6 3562906 DAT433090 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043309/20110105 CORSIKA QGSJET-II proton 14  34.583733
+7 3564300 DAT433133 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043313/20101231 CORSIKA QGSJET-II proton 14  29.111986
+8 3562844 DAT433142 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043314/20101224 CORSIKA QGSJET-II proton 14  33.455006
+9 3563862 DAT433180 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043318/20110104 CORSIKA QGSJET-II proton 14  31.180363
+10 3563996 DAT433212 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043321/20110105 CORSIKA QGSJET-II proton 14  27.662402
+11 3564814 DAT433233 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043323/20101224 CORSIKA QGSJET-II proton 14  26.785777
+12 3563984 DAT433265 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043326/20101223 CORSIKA QGSJET-II proton 14  33.191445
+13 3563642 DAT433266 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043326/20110104 CORSIKA QGSJET-II proton 14  35.689541
+14 3564770 DAT433285 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043328/20110105 CORSIKA QGSJET-II proton 14  30.292279
+15 3563530 DAT433290 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043329/20101229 CORSIKA QGSJET-II proton 14  31.844994
+16 3565092 DAT433363 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043336/20101231 CORSIKA QGSJET-II proton 14  31.753321
+17 3565206 DAT433418 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043341/20101231 CORSIKA QGSJET-II proton 14  34.595192
+18 3565680 DAT433443 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043344/20101229 CORSIKA QGSJET-II proton 14  32.188769
+19 3565718 DAT433481 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043348/20110105 CORSIKA QGSJET-II proton 14  32.171580
+20 3565886 DAT433501 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043350/20110105 CORSIKA QGSJET-II proton 14  34.526437
+21 3565474 DAT433512 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043351/20110102 CORSIKA QGSJET-II proton 14  26.734211
+22 3566918 DAT433528 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043352/20101231 CORSIKA QGSJET-II proton 14  32.790375
+23 3565612 DAT433590 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043359/20110104 CORSIKA QGSJET-II proton 14  29.650566
+24 3565480 DAT433595 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043359/20110104 CORSIKA QGSJET-II proton 14  31.260577
+25 3567050 DAT433627 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043362/20101224 CORSIKA QGSJET-II proton 14  25.903422
+26 3565816 DAT433645 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043364/20101229 CORSIKA QGSJET-II proton 14  25.702887
+27 3567218 DAT433648 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043364/20110105 CORSIKA QGSJET-II proton 14  35.345766
+28 3565810 DAT433675 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043367/20110105 CORSIKA QGSJET-II proton 14  26.877450
+29 3570643 DAT433769 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043376/20101231 CORSIKA QGSJET-II proton 14  33.592516
+30 3570493 DAT433772 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043377/20101229 CORSIKA QGSJET-II proton 14  28.974476
+31 3571501 DAT433803 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043380/20110102 CORSIKA QGSJET-II proton 14  29.684943
+32 3570935 DAT433823 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043382/20101224 CORSIKA QGSJET-II proton 14  26.350329
+33 3572245 DAT433876 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043387/20110102 CORSIKA QGSJET-II proton 14  35.414521
+34 3571018 DAT433886 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043388/20110105 CORSIKA QGSJET-II proton 14  33.243011
+35 3571156 DAT433895 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043389/20101229 CORSIKA QGSJET-II proton 14  34.755620
+36 3572556 DAT433937 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043393/20101231 CORSIKA QGSJET-II proton 14  32.114284
+37 3572010 DAT433946 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043394/20110104 CORSIKA QGSJET-II proton 14  34.910318
+38 3572767 DAT434029 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043402/20110104 CORSIKA QGSJET-II proton 14  27.450408
+39 3571299 DAT434052 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043405/20110106 CORSIKA QGSJET-II proton 14  26.212819
+40 3572454 DAT434066 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043406/20101224 CORSIKA QGSJET-II proton 14  27.335816
+41 3572448 DAT434079 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043407/20101231 CORSIKA QGSJET-II proton 14  29.283873
+42 3572620 DAT434083 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043408/20101224 CORSIKA QGSJET-II proton 14  29.278143
+43 3573437 DAT434090 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043409/20101224 CORSIKA QGSJET-II proton 14  28.602053
+44 3572585 DAT434091 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043409/20101224 CORSIKA QGSJET-II proton 14  31.489760
+45 3572901 DAT434094 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043409/20110102 CORSIKA QGSJET-II proton 14  32.274713
+46 3573671 DAT434144 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043414/20110105 CORSIKA QGSJET-II proton 14  26.974853
+47 3574042 DAT434182 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043418/20110104 CORSIKA QGSJET-II proton 14  32.721620
+48 3573088 DAT434213 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043421/20101229 CORSIKA QGSJET-II proton 14  34.600921
+49 3573460 DAT434285 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043428/20101224 CORSIKA QGSJET-II proton 14  28.951557
+50 3574324 DAT434297 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043429/20101231 CORSIKA QGSJET-II proton 14  30.550110
+51 3573393 DAT434333 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043433/20110102 CORSIKA QGSJET-II proton 14  26.103957
+52 3574528 DAT434337 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043433/20101231 CORSIKA QGSJET-II proton 14  31.690296
+53 3573922 DAT434349 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043434/20101224 CORSIKA QGSJET-II proton 14  35.855699
+54 3573133 DAT434361 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043436/20101230 CORSIKA QGSJET-II proton 14  30.108932
+55 3573303 DAT434366 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043436/20101224 CORSIKA QGSJET-II proton 14  33.053935
+56 3573968 DAT434397 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043439/20101231 CORSIKA QGSJET-II proton 14  27.725428
+57 3574593 DAT434422 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043442/20101224 CORSIKA QGSJET-II proton 14  33.535220
+58 3579109 DAT434435 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043443/20110104 CORSIKA QGSJET-II proton 14  26.482109
+59 3577956 DAT434447 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043444/20101231 CORSIKA QGSJET-II proton 14  29.959963
+60 3577947 DAT434485 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043448/20101224 CORSIKA QGSJET-II proton 14  34.744161
+61 3578648 DAT434490 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043449/20110104 CORSIKA QGSJET-II proton 14  30.716267
+62 3578683 DAT434526 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043452/20110102 CORSIKA QGSJET-II proton 14  29.392735
+63 3578876 DAT434570 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043457/20110104 CORSIKA QGSJET-II proton 14  30.034448
+64 3579259 DAT434580 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043458/20110105 CORSIKA QGSJET-II proton 14  32.068448
+65 3578401 DAT434600 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043460/20101229 CORSIKA QGSJET-II proton 14  31.403817
+66 3578725 DAT434655 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043465/20101224 CORSIKA QGSJET-II proton 14  26.115416
+67 3578776 DAT434660 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043466/20101231 CORSIKA QGSJET-II proton 14  28.854155
+68 3580123 DAT434679 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043467/20110108 CORSIKA QGSJET-II proton 14  32.561191
+69 3579359 DAT434683 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043468/20101224 CORSIKA QGSJET-II proton 14  30.750645
+70 3580284 DAT434709 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043470/20110104 CORSIKA QGSJET-II proton 14  34.641028
+71 3578946 DAT434727 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043472/20101224 CORSIKA QGSJET-II proton 14  25.817478
+72 3580037 DAT434788 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043478/20110104 CORSIKA QGSJET-II proton 14  33.592516
+73 3579750 DAT434805 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043480/20101231 CORSIKA QGSJET-II proton 14  33.231552
+74 3579677 DAT434837 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043483/20101226 CORSIKA QGSJET-II proton 14  32.738808
+75 3580943 DAT434891 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043489/20110102 CORSIKA QGSJET-II proton 14  32.870589
+76 3580816 DAT434896 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043489/20101224 CORSIKA QGSJET-II proton 14  29.954234
+77 3581379 DAT434920 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043492/20101224 CORSIKA QGSJET-II proton 14  32.658594
+78 3581280 DAT434936 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043493/20110102 CORSIKA QGSJET-II proton 14  32.824752
+79 3581080 DAT434939 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043493/20101231 CORSIKA QGSJET-II proton 14  33.179986
+80 3582133 DAT434960 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043496/20101231 CORSIKA QGSJET-II proton 14  29.071879
+81 3581193 DAT435007 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043500/20101231 CORSIKA QGSJET-II proton 14  31.885101
+82 3582183 DAT435013 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043501/20101231 CORSIKA QGSJET-II proton 14  32.234606
+83 3581933 DAT435022 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043502/20101224 CORSIKA QGSJET-II proton 14  31.684566
+84 3581805 DAT435094 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043509/20110104 CORSIKA QGSJET-II proton 14  33.443547
+85 3581217 DAT435104 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043510/20101229 CORSIKA QGSJET-II proton 14  26.069580
+86 3586033 DAT435118 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043511/20101231 CORSIKA QGSJET-II proton 14  33.609704
+87 3586419 DAT435133 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043513/20101229 CORSIKA QGSJET-II proton 14  33.323225
+88 3585347 DAT435164 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043516/20101229 CORSIKA QGSJET-II proton 14  34.423304
+89 3585997 DAT435209 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043520/20110105 CORSIKA QGSJET-II proton 14  34.073800
+90 3585991 DAT435222 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043522/20110102 CORSIKA QGSJET-II proton 14  35.546302
+91 3586609 DAT435248 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043524/20101231 CORSIKA QGSJET-II proton 14  33.575327
+92 3586059 DAT435267 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043526/20101229 CORSIKA QGSJET-II proton 14  30.309467
+93 3587251 DAT435270 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043527/20101224 CORSIKA QGSJET-II proton 14  32.309090
+94 3585817 DAT435284 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043528/20101231 CORSIKA QGSJET-II proton 14  32.652865
+95 3587587 DAT435322 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043532/20110104 CORSIKA QGSJET-II proton 14  29.031771
+96 3586795 DAT435324 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043532/20101223 CORSIKA QGSJET-II proton 14  32.922155
+97 3586375 DAT435344 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043534/20101231 CORSIKA QGSJET-II proton 14  26.189901
+98 3586731 DAT435354 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043535/20101231 CORSIKA QGSJET-II proton 14  25.708616
+99 3587161 DAT435355 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043535/20110102 CORSIKA QGSJET-II proton 14  25.869044
+100 3587441 DAT435448 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043544/20101224 CORSIKA QGSJET-II proton 14  25.313275
+101 3588649 DAT435483 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043548/20110104 CORSIKA QGSJET-II proton 14  32.967992
+102 3588365 DAT435513 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043551/20110102 CORSIKA QGSJET-II proton 14  27.330087
+103 3588237 DAT435529 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043552/20101224 CORSIKA QGSJET-II proton 14  34.578003
+104 3589211 DAT435556 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043555/20101229 CORSIKA QGSJET-II proton 14  29.931315
+105 3588463 DAT435558 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043555/20101229 CORSIKA QGSJET-II proton 14  26.648267
+106 3589197 DAT435564 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043556/20110106 CORSIKA QGSJET-II proton 14  30.412600
+107 3589173 DAT435597 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043559/20101229 CORSIKA QGSJET-II proton 14  35.683811
+108 3588559 DAT435705 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043570/20101224 CORSIKA QGSJET-II proton 14  25.783101
+109 3588711 DAT435713 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043571/20101226 CORSIKA QGSJET-II proton 14  35.815592
+110 3589371 DAT435733 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043573/20110105 CORSIKA QGSJET-II proton 14  32.578380
+111 3596657 DAT435798 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043579/20110102 CORSIKA QGSJET-II proton 14  34.125366
+112 3597213 DAT435823 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043582/20101231 CORSIKA QGSJET-II proton 14  29.369817
+113 3596477 DAT435842 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043584/20101224 CORSIKA QGSJET-II proton 14  33.827428
+114 3597553 DAT435871 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043587/20101224 CORSIKA QGSJET-II proton 14  27.880126
+115 3596743 DAT435877 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043587/20101229 CORSIKA QGSJET-II proton 14  31.529867
+116 3596681 DAT435910 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043591/20101224 CORSIKA QGSJET-II proton 14  34.910318
+117 3596897 DAT435930 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043593/20101231 CORSIKA QGSJET-II proton 14  28.183794
+118 3598285 DAT435933 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043593/20101231 CORSIKA QGSJET-II proton 14  27.106633
+119 3596955 DAT435964 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043596/20101231 CORSIKA QGSJET-II proton 14  31.959586
+120 3597887 DAT435985 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043598/20110105 CORSIKA QGSJET-II proton 14  27.656673
+121 3597597 DAT435996 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043599/20110105 CORSIKA QGSJET-II proton 14  31.839265
+122 3597503 DAT436022 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043602/20101229 CORSIKA QGSJET-II proton 14  25.061174
+123 3599315 DAT436064 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043606/20101224 CORSIKA QGSJET-II proton 14  35.185338
+124 3598639 DAT436073 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043607/20101231 CORSIKA QGSJET-II proton 14  32.303360
+125 3597307 DAT436084 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043608/20101224 CORSIKA QGSJET-II proton 14  35.672352
+126 3598539 DAT436087 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043608/20101224 CORSIKA QGSJET-II proton 14  28.412977
+127 3598691 DAT436107 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043610/20101229 CORSIKA QGSJET-II proton 14  27.060797
+128 3598727 DAT436121 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043612/20101230 CORSIKA QGSJET-II proton 14  33.781592
+129 3598171 DAT436148 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043614/20101229 CORSIKA QGSJET-II proton 14  34.302983
+130 3599297 DAT436161 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043616/20101224 CORSIKA QGSJET-II proton 14  29.146363
+131 3599889 DAT436212 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043621/20101229 CORSIKA QGSJET-II proton 14  35.294200
+132 3598653 DAT436232 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043623/20110102 CORSIKA QGSJET-II proton 14  26.562323
+133 3600107 DAT436259 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043625/20110105 CORSIKA QGSJET-II proton 14  28.235360
+134 3598551 DAT436297 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043629/20101224 CORSIKA QGSJET-II proton 14  25.089822
+135 3599989 DAT436300 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043630/20101231 CORSIKA QGSJET-II proton 14  29.885479
+136 3598933 DAT436319 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043631/20110106 CORSIKA QGSJET-II proton 14  28.200983
+137 3599481 DAT436338 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043633/20110104 CORSIKA QGSJET-II proton 14  32.887777
+138 3599255 DAT436343 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043634/20101231 CORSIKA QGSJET-II proton 14  32.996639
+139 3599825 DAT436371 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043637/20101224 CORSIKA QGSJET-II proton 14  32.847670
+140 3600057 DAT436384 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043638/20101224 CORSIKA QGSJET-II proton 14  35.397333
+141 3600781 DAT436419 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043641/20110104 CORSIKA QGSJET-II proton 14  35.019180
+142 3601427 DAT436471 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043647/20101231 CORSIKA QGSJET-II proton 14  25.697157
+143 3601139 DAT436474 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043647/20101231 CORSIKA QGSJET-II proton 14  26.499298
+144 3599837 DAT436493 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043649/20101224 CORSIKA QGSJET-II proton 14  33.844617
+145 3600653 DAT436506 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043650/20101231 CORSIKA QGSJET-II proton 14  29.484408
+146 3600523 DAT436521 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043652/20101229 CORSIKA QGSJET-II proton 14  26.230008
+147 3601447 DAT436534 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043653/20101230 CORSIKA QGSJET-II proton 14  34.990533
+148 3601018 DAT436537 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043653/20110106 CORSIKA QGSJET-II proton 14  30.595946
+149 3601307 DAT436543 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043654/20110105 CORSIKA QGSJET-II proton 14  25.141388
+150 3600545 DAT436579 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043657/20101224 CORSIKA QGSJET-II proton 14  26.619619
+151 3600659 DAT436594 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043659/20101224 CORSIKA QGSJET-II proton 14  32.251794
+152 3600869 DAT436639 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043663/20110102 CORSIKA QGSJET-II proton 14  33.025287
+153 3601465 DAT436646 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043664/20110105 CORSIKA QGSJET-II proton 14  30.424059
+154 3601681 DAT436687 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043668/20110105 CORSIKA QGSJET-II proton 14  26.195630
+155 3602695 DAT436759 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043675/20101224 CORSIKA QGSJET-II proton 14  35.036369
+156 3602851 DAT436857 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043685/20101224 CORSIKA QGSJET-II proton 14  31.134527
+157 3602357 DAT436874 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043687/20101230 CORSIKA QGSJET-II proton 14  28.974476
+158 3603531 DAT436896 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043689/20110105 CORSIKA QGSJET-II proton 14  27.163929
+159 3603215 DAT436927 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043692/20110102 CORSIKA QGSJET-II proton 14  33.122690
+160 3602655 DAT436948 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043694/20110105 CORSIKA QGSJET-II proton 14  35.947372
+161 3603123 DAT436972 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043697/20110105 CORSIKA QGSJET-II proton 14  29.106256
+162 3602803 DAT436985 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043698/20110104 CORSIKA QGSJET-II proton 14  25.857585
+163 3603485 DAT437016 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043701/20101229 CORSIKA QGSJET-II proton 14  28.286926
+164 3604313 DAT437056 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043705/20110105 CORSIKA QGSJET-II proton 14  31.466842
+165 3603327 DAT437089 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043708/20101231 CORSIKA QGSJET-II proton 14  25.021067
+166 3605167 DAT437104 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043710/20110105 CORSIKA QGSJET-II proton 14  29.501597
+167 3605039 DAT437146 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043714/20101231 CORSIKA QGSJET-II proton 14  29.278143
+168 3604685 DAT437152 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043715/20101231 CORSIKA QGSJET-II proton 14  27.937422
+169 3604265 DAT437165 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043716/20110104 CORSIKA QGSJET-II proton 14  28.120769
+170 3613109 DAT437204 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043720/20101224 CORSIKA QGSJET-II proton 14  31.352251
+171 3612087 DAT437208 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043720/20110105 CORSIKA QGSJET-II proton 14  33.552408
+172 3612301 DAT437217 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043721/20110102 CORSIKA QGSJET-II proton 14  35.334307
+173 3613317 DAT437221 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043722/20101231 CORSIKA QGSJET-II proton 14  28.814048
+174 3611947 DAT437255 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043725/20101231 CORSIKA QGSJET-II proton 14  29.249495
+175 3612619 DAT437274 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043727/20101231 CORSIKA QGSJET-II proton 14  30.624594
+176 3612631 DAT437306 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043730/20101229 CORSIKA QGSJET-II proton 14  30.194876
+177 3612009 DAT437331 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043733/20110102 CORSIKA QGSJET-II proton 14  34.251417
+178 3612449 DAT437402 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043740/20110105 CORSIKA QGSJET-II proton 14  35.907265
+179 3613121 DAT437484 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043748/20101229 CORSIKA QGSJET-II proton 14  33.260200
+180 3612751 DAT437510 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043751/20101231 CORSIKA QGSJET-II proton 14  27.908774
+181 3615373 DAT437555 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043755/20101224 CORSIKA QGSJET-II proton 14  32.079907
+182 3614401 DAT437575 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043757/20101223 CORSIKA QGSJET-II proton 14  31.535597
+183 3614983 DAT437593 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043759/20110105 CORSIKA QGSJET-II proton 14  35.116583
+184 3614175 DAT437596 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043759/20101231 CORSIKA QGSJET-II proton 14  32.830482
+185 3613587 DAT437604 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043760/20101231 CORSIKA QGSJET-II proton 14  31.489760
+186 3615613 DAT437613 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043761/20101231 CORSIKA QGSJET-II proton 14  32.899237
+187 3613619 DAT437641 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043764/20101224 CORSIKA QGSJET-II proton 14  33.403439
+188 3615159 DAT437665 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043766/20101224 CORSIKA QGSJET-II proton 14  29.318250
+189 3614189 DAT437670 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043767/20101224 CORSIKA QGSJET-II proton 14  30.911073
+190 3614335 DAT437683 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043768/20101224 CORSIKA QGSJET-II proton 14  32.309090
+191 3614813 DAT437737 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043773/20110102 CORSIKA QGSJET-II proton 14  25.445056
+192 3616307 DAT437755 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043775/20101231 CORSIKA QGSJET-II proton 14  33.397710
+193 3615201 DAT437763 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043776/20101231 CORSIKA QGSJET-II proton 14  33.042476
+194 3615569 DAT437796 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043779/20110105 CORSIKA QGSJET-II proton 14  35.128042
+195 3615725 DAT437816 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043781/20110102 CORSIKA QGSJET-II proton 14  35.024910
+196 3615903 DAT437837 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043783/20101224 CORSIKA QGSJET-II proton 14  31.277766
+197 3616093 DAT437838 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043783/20110102 CORSIKA QGSJET-II proton 14  34.818645
+198 3616043 DAT437841 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043784/20101229 CORSIKA QGSJET-II proton 14  31.472572
+199 3615461 DAT437853 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043785/20110102 CORSIKA QGSJET-II proton 14  25.278898
+200 3616835 DAT437885 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043788/20110104 CORSIKA QGSJET-II proton 14  34.136825
+201 3615771 DAT437903 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043790/20101224 CORSIKA QGSJET-II proton 14  35.340037
+202 3616753 DAT437944 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043794/20110104 CORSIKA QGSJET-II proton 14  26.344599
+203 3615701 DAT437957 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043795/20110102 CORSIKA QGSJET-II proton 14  31.254848
+204 3615663 DAT437965 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en17.500/th0.65/043796/20101231 CORSIKA QGSJET-II proton 14  33.930561
+205 3616237 DAT438015 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043801/20110114 CORSIKA QGSJET-II proton 14  32.973721
+206 3616803 DAT438040 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043804/20101222 CORSIKA QGSJET-II proton 14  32.268983
+207 3616169 DAT438042 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043804/20101222 CORSIKA QGSJET-II proton 14  28.567676
+208 3616659 DAT438125 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043812/20101222 CORSIKA QGSJET-II proton 14  34.578003
+209 3616243 DAT438131 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043813/20110106 CORSIKA QGSJET-II proton 14  26.161253
+210 3617645 DAT438140 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043814/20101222 CORSIKA QGSJET-II proton 14  25.783101
+211 3617879 DAT438200 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043820/20101222 CORSIKA QGSJET-II proton 14  33.603975
+212 3618919 DAT438234 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043823/20101222 CORSIKA QGSJET-II proton 14  33.598245
+213 3618277 DAT438246 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043824/20110104 CORSIKA QGSJET-II proton 14  35.729648
+214 3618207 DAT438264 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043826/20101222 CORSIKA QGSJET-II proton 14  25.863315
+215 3617633 DAT438298 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043829/20101223 CORSIKA QGSJET-II proton 14  28.905721
+216 3618549 DAT438318 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043831/20101222 CORSIKA QGSJET-II proton 14  30.825129
+217 3618995 DAT438390 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043839/20101222 CORSIKA QGSJET-II proton 14  35.191068
+218 3620157 DAT438438 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043843/20101222 CORSIKA QGSJET-II proton 14  33.523761
+219 3863615 DAT438441 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043844/20110106 CORSIKA QGSJET-II proton 14  27.565000
+220 3619093 DAT438446 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043844/20101222 CORSIKA QGSJET-II proton 14  33.878994
+221 3620275 DAT438453 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043845/20101223 CORSIKA QGSJET-II proton 14  31.008476
+222 3626303 DAT438489 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043848/20110117 CORSIKA QGSJET-II proton 14  27.534020
+223 3626367 DAT438515 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043851/20101222 CORSIKA QGSJET-II proton 14  33.317496
+224 3625953 DAT438530 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043853/20101222 CORSIKA QGSJET-II proton 14  29.541704
+225 3626183 DAT438544 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043854/20101223 CORSIKA QGSJET-II proton 14  30.636053
+226 3625341 DAT438553 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043855/20101223 CORSIKA QGSJET-II proton 14  31.770510
+227 3625507 DAT438557 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043855/20101222 CORSIKA QGSJET-II proton 14  25.032526
+228 3626611 DAT438566 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043856/20101222 CORSIKA QGSJET-II proton 14  32.744538
+229 3625355 DAT438628 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043862/20101222 CORSIKA QGSJET-II proton 14  34.595192
+230 3626167 DAT438639 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043863/20101222 CORSIKA QGSJET-II proton 14  25.003878
+231 3626313 DAT438673 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043867/20101222 CORSIKA QGSJET-II proton 14  35.122313
+232 3626825 DAT438675 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043867/20101222 CORSIKA QGSJET-II proton 14  31.890831
+233 3627505 DAT438750 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043875/20101222 CORSIKA QGSJET-II proton 14  31.380898
+234 3627837 DAT438762 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043876/20101223 CORSIKA QGSJET-II proton 14  33.076854
+235 3626789 DAT438787 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043878/20101222 CORSIKA QGSJET-II proton 14  27.576459
+236 3627155 DAT438789 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043878/20101222 CORSIKA QGSJET-II proton 14  27.106633
+237 3626795 DAT438809 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043880/20101229 CORSIKA QGSJET-II proton 14  27.278521
+238 3627317 DAT438821 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043882/20101222 CORSIKA QGSJET-II proton 14  32.372115
+239 3627379 DAT438829 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043882/20101222 CORSIKA QGSJET-II proton 14  34.658217
+240 3627065 DAT438840 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043884/20101221 CORSIKA QGSJET-II proton 14  32.492437
+241 3627243 DAT438900 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043890/20101222 CORSIKA QGSJET-II proton 14  31.953856
+242 3627295 DAT438910 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043891/20101223 CORSIKA QGSJET-II proton 14  29.839642
+243 3627755 DAT438921 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043892/20101222 CORSIKA QGSJET-II proton 14  29.094797
+244 3629087 DAT438947 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043894/20101222 CORSIKA QGSJET-II proton 14  26.906098
+245 3627397 DAT438949 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043894/20101222 CORSIKA QGSJET-II proton 14  28.143687
+246 3628993 DAT438956 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043895/20101222 CORSIKA QGSJET-II proton 14  33.094042
+247 3627667 DAT439020 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043902/20101222 CORSIKA QGSJET-II proton 14  29.450031
+248 3628345 DAT439051 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043905/20101222 CORSIKA QGSJET-II proton 14  31.168904
+249 3629307 DAT439102 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043910/20101222 CORSIKA QGSJET-II proton 14  28.000447
+250 3628943 DAT439106 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043910/20101222 CORSIKA QGSJET-II proton 14  35.156690
+251 3629705 DAT439124 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043912/20101222 CORSIKA QGSJET-II proton 14  34.325902
+252 3629473 DAT439163 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043916/20110101 CORSIKA QGSJET-II proton 14  34.944696
+253 3629447 DAT439188 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043918/20101222 CORSIKA QGSJET-II proton 14  30.252172
+254 3630325 DAT439239 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043923/20101222 CORSIKA QGSJET-II proton 14  34.497789
+255 3629945 DAT439273 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043927/20101222 CORSIKA QGSJET-II proton 14  32.635676
+256 3630573 DAT439322 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043932/20101222 CORSIKA QGSJET-II proton 14  29.444301
+257 3629761 DAT439356 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043935/20110113 CORSIKA QGSJET-II proton 14  29.306791
+258 3631419 DAT439377 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043937/20110101 CORSIKA QGSJET-II proton 14  31.329332
+259 3636825 DAT439572 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043957/20101223 CORSIKA QGSJET-II proton 14  33.477924
+260 3637449 DAT439603 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043960/20101222 CORSIKA QGSJET-II proton 14  33.071124
+261 3638347 DAT439619 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043961/20101222 CORSIKA QGSJET-II proton 14  35.082206
+262 3637021 DAT439650 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043965/20101222 CORSIKA QGSJET-II proton 14  26.940476
+263 3637335 DAT439672 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043967/20110101 CORSIKA QGSJET-II proton 14  34.131096
+264 3637475 DAT439695 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043969/20101222 CORSIKA QGSJET-II proton 14  27.937422
+265 3637505 DAT439713 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043971/20101223 CORSIKA QGSJET-II proton 14  32.515355
+266 3637943 DAT439720 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043972/20101223 CORSIKA QGSJET-II proton 14  29.593270
+267 3637461 DAT439769 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043976/20101222 CORSIKA QGSJET-II proton 14  33.701378
+268 3638427 DAT439810 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043981/20101223 CORSIKA QGSJET-II proton 14  28.258278
+269 3638697 DAT439852 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043985/20101230 CORSIKA QGSJET-II proton 14  35.569220
+270 3638865 DAT439864 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043986/20101222 CORSIKA QGSJET-II proton 14  35.981750
+271 3638517 DAT439916 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043991/20101222 CORSIKA QGSJET-II proton 14  29.971422
+272 3639213 DAT439957 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043995/20101222 CORSIKA QGSJET-II proton 14  29.977152
+273 3638777 DAT439959 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043995/20110106 CORSIKA QGSJET-II proton 14  34.234228
+274 3639001 DAT439968 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043996/20101230 CORSIKA QGSJET-II proton 14  35.007721
+275 3639915 DAT439988 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/043998/20101222 CORSIKA QGSJET-II proton 14  25.800290
+276 3639081 DAT440015 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044001/20101222 CORSIKA QGSJET-II proton 14  28.659349
+277 3639649 DAT440032 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044003/20110106 CORSIKA QGSJET-II proton 14  30.767834
+278 3640773 DAT440059 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044005/20101222 CORSIKA QGSJET-II proton 14  35.523383
+279 3639501 DAT440099 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044009/20101222 CORSIKA QGSJET-II proton 14  32.945073
+280 3640249 DAT440124 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044012/20101221 CORSIKA QGSJET-II proton 14  30.074555
+281 3640455 DAT440128 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044012/20101222 CORSIKA QGSJET-II proton 14  30.028718
+282 3640863 DAT440151 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044015/20101222 CORSIKA QGSJET-II proton 14  31.386628
+283 3640857 DAT440178 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044017/20110113 CORSIKA QGSJET-II proton 14  33.535220
+284 3641339 DAT440222 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044022/20101222 CORSIKA QGSJET-II proton 14  35.844240
+285 3641267 DAT440267 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044026/20101222 CORSIKA QGSJET-II proton 14  31.867913
+286 3641880 DAT440294 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044029/20101222 CORSIKA QGSJET-II proton 14  32.893507
+287 3642099 DAT440315 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044031/20110113 CORSIKA QGSJET-II proton 14  30.744915
+288 3641506 DAT440334 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044033/20101222 CORSIKA QGSJET-II proton 14  28.040554
+289 3642405 DAT440448 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044044/20101223 CORSIKA QGSJET-II proton 14  33.277389
+290 3642287 DAT440477 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044047/20101222 CORSIKA QGSJET-II proton 14  31.209011
+291 3642626 DAT440491 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044049/20101222 CORSIKA QGSJET-II proton 14  29.283873
+292 3643306 DAT440544 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044054/20110105 CORSIKA QGSJET-II proton 14  35.655164
+293 3642544 DAT440548 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044054/20110105 CORSIKA QGSJET-II proton 14  28.945828
+294 3643187 DAT440580 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044058/20110105 CORSIKA QGSJET-II proton 14  30.779293
+295 3642682 DAT440597 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044059/20110101 CORSIKA QGSJET-II proton 14  29.604729
+296 3643866 DAT440656 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044065/20101223 CORSIKA QGSJET-II proton 14  27.473326
+297 3648000 DAT440680 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044068/20110102 CORSIKA QGSJET-II proton 14  26.900368
+298 3648691 DAT440789 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044078/20101223 CORSIKA QGSJET-II proton 14  33.260200
+299 3648163 DAT440793 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044079/20101222 CORSIKA QGSJET-II proton 14  31.684566
+300 3648906 DAT440828 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044082/20101222 CORSIKA QGSJET-II proton 14  31.260577
+301 3648471 DAT440834 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044083/20101222 CORSIKA QGSJET-II proton 14  32.595569
+302 3648900 DAT440849 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044084/20101222 CORSIKA QGSJET-II proton 14  32.337738
+303 3648978 DAT440850 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044085/20101222 CORSIKA QGSJET-II proton 14  30.882425
+304 3649845 DAT440864 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044086/20101222 CORSIKA QGSJET-II proton 14  31.781969
+305 3649548 DAT440882 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044088/20110104 CORSIKA QGSJET-II proton 14  33.758673
+306 3649883 DAT440893 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044089/20101222 CORSIKA QGSJET-II proton 14  34.755620
+307 3649130 DAT440961 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044096/20110104 CORSIKA QGSJET-II proton 14  25.296087
+308 3650120 DAT440986 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044098/20101222 CORSIKA QGSJET-II proton 14  25.657050
+309 3649623 DAT441008 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044100/20110104 CORSIKA QGSJET-II proton 14  28.533298
+310 3650431 DAT441037 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044103/20101222 CORSIKA QGSJET-II proton 14  29.192200
+311 3649497 DAT441043 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044104/20101223 CORSIKA QGSJET-II proton 14  35.196797
+312 3649579 DAT441061 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044106/20101223 CORSIKA QGSJET-II proton 14  33.208634
+313 3650023 DAT441062 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044106/20101222 CORSIKA QGSJET-II proton 14  34.887400
+314 3651506 DAT441153 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044115/20110102 CORSIKA QGSJET-II proton 14  30.893884
+315 3650484 DAT441157 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044115/20101222 CORSIKA QGSJET-II proton 14  34.348820
+316 3651543 DAT441228 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044122/20101222 CORSIKA QGSJET-II proton 14  29.931315
+317 3650826 DAT441230 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044123/20110104 CORSIKA QGSJET-II proton 14  27.146740
+318 3651442 DAT441285 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044128/20110101 CORSIKA QGSJET-II proton 14  30.836589
+319 3651335 DAT441296 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044129/20101222 CORSIKA QGSJET-II proton 14  34.366009
+320 3651271 DAT441330 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044133/20101229 CORSIKA QGSJET-II proton 14  25.737264
+321 3651733 DAT441342 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044134/20101222 CORSIKA QGSJET-II proton 14  31.684566
+322 3652412 DAT441379 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044137/20101222 CORSIKA QGSJET-II proton 14  34.875941
+323 3652502 DAT441426 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044142/20101223 CORSIKA QGSJET-II proton 14  34.108178
+324 3652449 DAT441456 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044145/20101222 CORSIKA QGSJET-II proton 14  35.827051
+325 3652690 DAT441470 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044147/20101222 CORSIKA QGSJET-II proton 14  34.285794
+326 3654417 DAT441563 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044156/20110105 CORSIKA QGSJET-II proton 14  33.689918
+327 3875406 DAT441566 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044156/20110113 CORSIKA QGSJET-II proton 14  33.082583
+328 3653036 DAT441612 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044161/20101222 CORSIKA QGSJET-II proton 14  33.048206
+329 3653839 DAT441651 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044165/20110106 CORSIKA QGSJET-II proton 14  27.868667
+330 3653259 DAT441652 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044165/20101222 CORSIKA QGSJET-II proton 14  30.739186
+331 3653608 DAT441667 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044166/20101222 CORSIKA QGSJET-II proton 14  35.953102
+332 3652992 DAT441669 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044166/20101222 CORSIKA QGSJET-II proton 14  28.773940
+333 3864010 DAT441670 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044167/20110113 CORSIKA QGSJET-II proton 14  26.333140
+334 3653916 DAT441683 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044168/20101222 CORSIKA QGSJET-II proton 14  25.542459
+335 3653774 DAT441691 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044169/20101222 CORSIKA QGSJET-II proton 14  33.455006
+336 3653241 DAT441717 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044171/20101222 CORSIKA QGSJET-II proton 14  31.369439
+337 3654141 DAT441719 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044171/20101222 CORSIKA QGSJET-II proton 14  34.681135
+338 3654021 DAT441721 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044172/20101222 CORSIKA QGSJET-II proton 14  30.779293
+339 3658216 DAT441767 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044176/20101222 CORSIKA QGSJET-II proton 14  30.361034
+340 3658278 DAT441774 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044177/20101222 CORSIKA QGSJET-II proton 14  27.845749
+341 3658457 DAT441779 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044177/20101222 CORSIKA QGSJET-II proton 14  26.883180
+342 3658518 DAT441799 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044179/20101222 CORSIKA QGSJET-II proton 14  29.541704
+343 3658778 DAT441803 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044180/20101222 CORSIKA QGSJET-II proton 14  25.404949
+344 3658012 DAT441805 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044180/20101222 CORSIKA QGSJET-II proton 14  35.958831
+345 3657906 DAT441808 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044180/20110106 CORSIKA QGSJET-II proton 14  27.055067
+346 3658601 DAT441816 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044181/20110101 CORSIKA QGSJET-II proton 14  25.427867
+347 3659293 DAT441818 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044181/20110104 CORSIKA QGSJET-II proton 14  25.771642
+348 3658715 DAT441823 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044182/20101222 CORSIKA QGSJET-II proton 14  33.758673
+349 3658197 DAT441824 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044182/20101222 CORSIKA QGSJET-II proton 14  32.475248
+350 3658463 DAT441899 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044189/20101222 CORSIKA QGSJET-II proton 14  35.563490
+351 3659753 DAT441967 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044196/20101222 CORSIKA QGSJET-II proton 14  28.178064
+352 3658979 DAT441995 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044199/20101222 CORSIKA QGSJET-II proton 14  31.214741
+353 3659029 DAT442048 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044204/20101222 CORSIKA QGSJET-II proton 14  33.552408
+354 3659958 DAT442070 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044207/20101222 CORSIKA QGSJET-II proton 14  31.421005
+355 3660379 DAT442141 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044214/20101222 CORSIKA QGSJET-II proton 14  35.741107
+356 3659759 DAT442142 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044214/20101222 CORSIKA QGSJET-II proton 14  31.008476
+357 3659964 DAT442185 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044218/20101222 CORSIKA QGSJET-II proton 14  33.397710
+358 3660147 DAT442200 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044220/20110101 CORSIKA QGSJET-II proton 14  27.375923
+359 3661109 DAT442219 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044221/20101222 CORSIKA QGSJET-II proton 14  33.489383
+360 3660760 DAT442234 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044223/20101222 CORSIKA QGSJET-II proton 14  29.117715
+361 3661436 DAT442283 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044228/20101222 CORSIKA QGSJET-II proton 14  33.071124
+362 3661557 DAT442339 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044233/20101222 CORSIKA QGSJET-II proton 14  31.209011
+363 3662011 DAT442373 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044237/20101222 CORSIKA QGSJET-II proton 14  28.487462
+364 3661841 DAT442375 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044237/20101222 CORSIKA QGSJET-II proton 14  34.658217
+365 3661760 DAT442396 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044239/20101222 CORSIKA QGSJET-II proton 14  27.799912
+366 3661797 DAT442440 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044244/20110109 CORSIKA QGSJET-II proton 14  27.175388
+367 3663696 DAT442461 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044246/20101222 CORSIKA QGSJET-II proton 14  35.758296
+368 3662105 DAT442463 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044246/20101222 CORSIKA QGSJET-II proton 14  27.748346
+369 3661892 DAT442481 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044248/20101222 CORSIKA QGSJET-II proton 14  29.215118
+370 3663038 DAT442483 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044248/20101222 CORSIKA QGSJET-II proton 14  33.919101
+371 3662843 DAT442500 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044250/20101222 CORSIKA QGSJET-II proton 14  25.897692
+372 3662705 DAT442502 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044250/20110104 CORSIKA QGSJET-II proton 14  27.673862
+373 3663447 DAT442518 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044251/20101230 CORSIKA QGSJET-II proton 14  31.386628
+374 3662149 DAT442537 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044253/20101222 CORSIKA QGSJET-II proton 14  31.077231
+375 3663664 DAT442552 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044255/20101222 CORSIKA QGSJET-II proton 14  27.708239
+376 3662956 DAT442559 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044255/20101222 CORSIKA QGSJET-II proton 14  25.170036
+377 3663304 DAT442597 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044259/20101223 CORSIKA QGSJET-II proton 14  35.059287
+378 3663163 DAT442628 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044262/20101222 CORSIKA QGSJET-II proton 14  27.163929
+379 3663746 DAT442630 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044263/20101230 CORSIKA QGSJET-II proton 14  30.721997
+380 3663842 DAT442645 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044264/20101222 CORSIKA QGSJET-II proton 14  30.114662
+381 3662986 DAT442654 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044265/20110105 CORSIKA QGSJET-II proton 14  32.354927
+382 3663406 DAT442661 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044266/20101222 CORSIKA QGSJET-II proton 14  25.278898
+383 3663383 DAT442755 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044275/20101222 CORSIKA QGSJET-II proton 14  25.135658
+384 3664771 DAT442794 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044279/20101222 CORSIKA QGSJET-II proton 14  29.295332
+385 3668014 DAT442891 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044289/20101222 CORSIKA QGSJET-II proton 14  25.891963
+386 3668078 DAT442904 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en18.000/th0.65/044290/20101222 CORSIKA QGSJET-II proton 14  35.827051
+387 1023950 DAT105053 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.562323
+388 1024291 DAT105073 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.775485
+389 1023711 DAT105091 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.054312
+390 1027407 DAT105110 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.211687
+391 964450 DAT105151 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 30.343845
+392 1024105 DAT105154 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.568053
+393 963738 DAT105174 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.389304
+394 1059775 DAT105236 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.764026
+395 1026026 DAT105377 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.371738
+396 1057709 DAT105408 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.736887
+397 1025497 DAT105420 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.704808
+398 1056396 DAT105465 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.444301
+399 1056468 DAT105468 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.979073
+400 964488 DAT105556 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.171580
+401 1027210 DAT105573 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.951180
+402 1060893 DAT105581 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/14/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.357603
+403 1027813 DAT105607 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/20/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.934746
+404 1030910 DAT105615 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/20/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.927507
+405 1027778 DAT105646 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/20/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.323225
+406 1028101 DAT105650 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/20/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.837343
+407 1028767 DAT105720 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.744538
+408 1029017 DAT105747 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.289980
+409 1029142 DAT105767 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 25.490892
+410 1029904 DAT105775 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.031394
+411 1029543 DAT105791 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.120391
+412 1029663 DAT105793 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.022611
+413 1029842 DAT105817 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.254848
+414 1029449 DAT105835 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.608160
+415 1033306 DAT105865 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.036369
+416 1030317 DAT105887 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.505028
+417 1031060 DAT105919 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.802588
+418 1030651 DAT105939 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 25.319005
+419 1030871 DAT105941 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.243389
+420 1030677 DAT105987 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.149039
+421 1035366 DAT106000 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.492814
+422 1031111 DAT106017 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.950803
+423 1032014 DAT106046 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.189524
+424 1031840 DAT106067 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.391980
+425 1036184 DAT106075 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.247197
+426 1036806 DAT106081 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.126121
+427 1032355 DAT106118 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.595192
+428 1032937 DAT106128 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.275467
+429 1032226 DAT106137 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.780047
+430 1033171 DAT106152 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.020690
+431 1033018 DAT106191 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.460358
+432 1034773 DAT106211 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.996262
+433 1033866 DAT106266 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.232684
+434 1034906 DAT106277 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.619242
+435 1035683 DAT106284 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.418707
+436 1035945 DAT106307 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.956910
+437 1035623 DAT106345 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.481355
+438 1044427 DAT106360 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.550487
+439 1038000 DAT106456 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.087935
+440 1037471 DAT106476 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.93704520
+441 1036194 DAT106488 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.782346
+442 1037803 DAT106503 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.649434
+443 1037659 DAT106546 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.469141
+444 1045558 DAT106578 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.157445
+445 1039143 DAT106658 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.890076
+446 1041369 DAT106667 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.384706
+447 1042066 DAT106713 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.292279
+448 1043573 DAT106729 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.741107
+449 1039658 DAT106748 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.780047
+450 1039206 DAT106763 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.111231
+451 1040139 DAT106802 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.010775
+452 1040330 DAT106806 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.246819
+453 1040743 DAT106834 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.514978
+454 1041062 DAT106917 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.964938
+455 1041783 DAT106973 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.870589
+456 1045920 DAT106981 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.003124
+457 1046191 DAT106983 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.653242
+458 1046492 DAT106986 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.642160
+459 1041471 DAT106993 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.684943
+460 1042389 DAT107024 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.686865
+461 1043588 DAT107063 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.934369
+462 1041882 DAT107067 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.243011
+463 1042088 DAT107068 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/21/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.315197
+464 964392 DAT107114 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 25.954988
+465 1044130 DAT107123 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.472949
+466 970068 DAT107133 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.484031
+467 969864 DAT107135 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.764780
+468 965313 DAT107170 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 28.745293
+469 964846 DAT107188 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 30.527191
+470 965129 DAT107202 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.039800
+471 965362 DAT107217 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 30.532921
+472 971114 DAT107270 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/14/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.461113
+473 966388 DAT107311 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/14/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 33.254470
+474 967099 DAT107362 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 34.062341
+475 967192 DAT107383 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 33.569597
+476 967521 DAT107398 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 34.560814
+477 967904 DAT107404 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 33.088313
+478 968564 DAT107463 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 29.260955
+479 968178 DAT107467 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 26.436273
+480 968454 DAT107471 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 29.467219
+481 968640 DAT107492 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 28.693726
+482 968440 DAT107501 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.194499
+483 968974 DAT107510 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 28.785400
+484 971346 DAT107554 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.174634
+485 969740 DAT107602 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.123067
+486 971829 DAT107614 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.979451
+487 970573 DAT107655 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 27.948881
+488 973268 DAT107716 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 30.338115
+489 970755 DAT107719 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 29.392735
+490 971081 DAT107723 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 26.871721
+491 971060 DAT107733 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 35.637975
+492 971618 DAT107782 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.375169
+493 971702 DAT107784 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 35.231175
+494 973803 DAT107800 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 35.408792
+495 1022076 DAT107842 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.945073
+496 972495 DAT107870 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 36.004668
+497 972197 DAT107875 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 31.346521
+498 975135 DAT107893 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 28.894262
+499 975315 DAT107895 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 32.990910
+500 972904 DAT107920 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 35.918724
+501 973100 DAT107934 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 30.212065
+502 973184 DAT107937 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 27.650943
+503 976115 DAT107952 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 28.854155
+504 973448 DAT107975 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.000/th0.65 CORSIKA QGSJET-II proton 14 18.00 34.366009
+505 1044163 DAT108060 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.498166
+506 1044349 DAT108061 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.910696
+507 1050429 DAT108073 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.386251
+508 1047511 DAT108088 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.243011
+509 1048122 DAT108121 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.831236
+510 1045315 DAT108139 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.391603
+511 1045419 DAT108140 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.168904
+512 1044816 DAT108157 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.867913
+513 1051583 DAT108275 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.705186
+514 1046858 DAT108291 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 35.156690
+515 1046755 DAT108310 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.888532
+516 1049525 DAT108346 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 34.675406
+517 1052451 DAT108352 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.653242
+518 1047113 DAT108362 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.690296
+519 1023209 DAT108408 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.500/th0.65 CORSIKA QGSJET-II proton 14 18.00 26.590971
+520 1050047 DAT108463 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.358735
+521 980847 DAT108495 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.500/th0.65 CORSIKA QGSJET-II proton 14 18.00 29.387005
+522 1048346 DAT108508 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 25.599754
+523 1047847 DAT108518 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.085637
+524 1048111 DAT108523 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.364464
+525 1048836 DAT108615 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.332763
+526 1051736 DAT108633 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.303360
+527 1049595 DAT108663 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 27.582188
+528 1050283 DAT108673 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.200605
+529 1053528 DAT108704 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.579512
+530 1050656 DAT108723 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.641783
+531 1051377 DAT108742 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.764403
+532 1050514 DAT108772 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.539028
+533 1053784 DAT108788 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 33.592516
+534 974061 DAT108816 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/13/en18.500/th0.65 CORSIKA QGSJET-II proton 14 18.00 34.274335
+535 1053026 DAT108820 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.756752
+536 1052607 DAT108834 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 32.314820
+537 1052095 DAT108876 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 30.452707
+538 1054385 DAT108888 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/09/25/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 26.585242
+539 1055078 DAT108948 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/06/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 29.982881
+540 1054757 DAT108965 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/06/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 31.999693
+541 1055134 DAT108973 srb:/Simulations/libraries/augermgr.ccin2p3/QGSjetII_Proton_SRB/2008/10/06/en18.500/th0.65/ CORSIKA QGSJET-II proton 14 18.00 28.395788
+542 364197 dat000101 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+543 364241 dat000102 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+544 364253 dat000103 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+545 364351 dat000104 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+546 364337 dat000105 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+547 364415 dat000106 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+548 364433 dat000107 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+549 364465 dat000108 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+550 364547 dat000109 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+551 364523 dat000110 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+552 364634 dat000111 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+553 364672 dat000112 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+554 364699 dat000113 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+555 364717 dat000114 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+556 364775 dat000115 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+557 364849 dat000116 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+558 364858 dat000117 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+559 364947 dat000118 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+560 364985 dat000119 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+561 365032 dat000120 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+562 365056 dat000121 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+563 363815 dat000122 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+564 363824 dat000123 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+565 363921 dat000124 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+566 363930 dat000125 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+567 363979 dat000126 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+568 364017 dat000127 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+569 364088 dat000128 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+570 364133 dat000129 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+571 364126 dat000130 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+572 364224 dat000131 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+573 364299 dat000132 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+574 364275 dat000133 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+575 364329 dat000134 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+576 364442 dat000135 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+577 364398 dat000136 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+578 364538 dat000137 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+579 364576 dat000138 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+580 364585 dat000139 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+581 364681 dat000140 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+582 364737 dat000141 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+583 364726 dat000142 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+584 364784 dat000143 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+585 364822 dat000144 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+586 364909 dat000145 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+587 364867 dat000146 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+588 364918 dat000147 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+589 365041 dat000148 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+590 365079 dat000149 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+591 365094 dat000150 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+592 392336 dat002901 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+593 392285 dat002902 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+594 391332 dat002903 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+595 391304 dat002904 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+596 391404 dat002905 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+597 391385 dat002906 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+598 391442 dat002907 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+599 391520 dat002908 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+600 391540 dat002909 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+601 391474 dat002910 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+602 391567 dat002911 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+603 391607 dat002912 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+604 391636 dat002913 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+605 391777 dat002914 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+606 391759 dat002915 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+607 391804 dat002916 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+608 391850 dat002917 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+609 391913 dat002918 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+610 392001 dat002919 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+611 391984 dat002920 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+612 392065 dat002921 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+613 391924 dat002922 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+614 392181 dat002923 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+615 392166 dat002924 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+616 392235 dat002925 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+617 392227 dat002926 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+618 392276 dat002927 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+619 392412 dat002928 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+620 392354 dat002929 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+621 392421 dat002930 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+622 392493 dat002931 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+623 392570 dat002932 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+624 391531 dat002933 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+625 391574 dat002934 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+626 391549 dat002935 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+627 391598 dat002936 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+628 391483 dat002937 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+629 391652 dat002938 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+630 391661 dat002939 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+631 391696 dat002940 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+632 391679 dat002941 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+633 391670 dat002942 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+634 391786 dat002943 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+635 391723 dat002944 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+636 391795 dat002945 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+637 391841 dat002946 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+638 391875 dat002947 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+639 391899 dat002948 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+640 391937 dat002949 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+641 391960 dat002950 srb:/Simulations/libraries/bleve.ccin2p3/LD1_GPF00q2fl/corsika/qgsjet-ii/proton/e18.0/t26 CORSIKA QGSJET-II proton 14 18.00 26.000000
+#end

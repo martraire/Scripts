@@ -1,0 +1,2 @@
+1 3719724 DAT450505 srb:/Simulations/libraries/augermgr.ccin2p3/GenProtonQGSjetII_SRB/en19.000/th0.65/045050/20101229 CORSIKA QGSJET-II proton 14  25.009608
+#end
